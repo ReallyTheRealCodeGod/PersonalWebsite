@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Personal Website
+Build with the MERN stack (MongoDB, Express, React.js, Node.js)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
